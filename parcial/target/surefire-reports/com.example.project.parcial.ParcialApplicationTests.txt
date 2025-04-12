@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.example.project.parcial.ParcialApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.801 s -- in com.example.project.parcial.ParcialApplicationTests

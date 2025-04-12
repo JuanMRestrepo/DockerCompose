@@ -1,0 +1,36 @@
+# Git files
+.git
+.gitignore
+
+# Maven build files
+target/
+!target/*.jar
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+
+# Logs
+logs/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Docker files
+.dockerignore
+Dockerfile
+docker-compose.yml
+
+# Documentation
+README.md
+LICENSE
+
+# Test resources and results
+target/test-classes/
+target/surefire-reports/

@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ParcialApplication",
+            "request": "launch",
+            "mainClass": "com.example.project.parcial.ParcialApplication",
+            "projectName": "parcial"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-ParcilApplication<parcial>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.example.project.parcial.ParcilApplication",
+            "projectName": "parcial",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}

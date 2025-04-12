@@ -1,0 +1,9 @@
+/home/juan9029/Documentos/Estudio/Cloud Native/parcial/src/main/java/com/example/project/parcial/ParcialApplication.java
+/home/juan9029/Documentos/Estudio/Cloud Native/parcial/src/main/java/com/example/project/parcial/controllers/ProductController.java
+/home/juan9029/Documentos/Estudio/Cloud Native/parcial/src/main/java/com/example/project/parcial/exception/ErrorResponse.java
+/home/juan9029/Documentos/Estudio/Cloud Native/parcial/src/main/java/com/example/project/parcial/exception/GlobalExceptionHandler.java
+/home/juan9029/Documentos/Estudio/Cloud Native/parcial/src/main/java/com/example/project/parcial/exception/ResourceNotFoundException.java
+/home/juan9029/Documentos/Estudio/Cloud Native/parcial/src/main/java/com/example/project/parcial/models/Product.java
+/home/juan9029/Documentos/Estudio/Cloud Native/parcial/src/main/java/com/example/project/parcial/repositories/ProductRepository.java
+/home/juan9029/Documentos/Estudio/Cloud Native/parcial/src/main/java/com/example/project/parcial/services/ProductService.java
+/home/juan9029/Documentos/Estudio/Cloud Native/parcial/src/main/java/com/example/project/parcial/services/ProductServiceImpl.java
